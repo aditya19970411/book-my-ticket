@@ -1,0 +1,148 @@
+[
+  {
+    "id": "2",
+    "name": "Thor",
+    "cast": [
+      "Chris Hemsworth",
+      "Tessa Thompson",
+      "Taika Waititi"
+    ],
+    "language": "English",
+    "genre": "Super Hero",
+    "location": [
+      {
+        "value": "bombay",
+        "label": "Bombay",
+        "theatre": "ICR",
+        "timings": [
+          {
+            "time": "1300",
+            "price": "200"
+          },
+          {
+            "time": "1920",
+            "price": "300"
+          }
+        ]
+      },
+      {
+        "value": "banglore",
+        "label": "Banglore",
+        "theatre": "INOX",
+        "timings": [
+          {
+            "time": "1300",
+            "price": "200"
+          },
+          {
+            "time": "1920",
+            "price": "300"
+          }
+        ]
+      },
+      {
+        "value": "delhi",
+        "label": "Delhi",
+        "theatre": "PVR",
+        "timings": [
+          {
+            "time": "1300",
+            "price": "200"
+          },
+          {
+            "time": "1920",
+            "price": "300"
+          }
+        ]
+      },
+      {
+        "value": "noida",
+        "label": "Noida",
+        "theatre": "PVR",
+        "timings": [
+          {
+            "time": "1300",
+            "price": "200"
+          },
+          {
+            "time": "1920",
+            "price": "300"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Thor",
+    "cast": [
+      "Chris Hemsworth",
+      "Tessa Thompson",
+      "Taika Waititi"
+    ],
+    "language": "English",
+    "genre": "Super Hero",
+    "location": [
+      {
+        "value": "bombay",
+        "label": "Bombay",
+        "theatre": "ICR",
+        "timings": [
+          {
+            "time": "1300",
+            "price": "200"
+          },
+          {
+            "time": "1920",
+            "price": "300"
+          }
+        ]
+      },
+      {
+        "value": "banglore",
+        "label": "Banglore",
+        "theatre": "INOX",
+        "timings": [
+          {
+            "time": "1300",
+            "price": "200"
+          },
+          {
+            "time": "1920",
+            "price": "300"
+          }
+        ]
+      },
+      {
+        "value": "delhi",
+        "label": "Delhi",
+        "theatre": "PVR",
+        "timings": [
+          {
+            "time": "1300",
+            "price": "200"
+          },
+          {
+            "time": "1920",
+            "price": "300"
+          }
+        ]
+      },
+      {
+        "value": "noida",
+        "label": "Noida",
+        "theatre": "PVR",
+        "timings": [
+          {
+            "time": "1300",
+            "price": "200"
+          },
+          {
+            "time": "1920",
+            "price": "300"
+          }
+        ]
+      }
+    ]
+  }
+]
